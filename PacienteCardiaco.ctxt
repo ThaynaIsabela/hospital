@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PacienteCardiaco
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ PacienteCardiaco\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=nome\ dataNascimento\ temCansaco\ temTontura\ temNausea
+comment1.target=PacienteCardiaco(java.lang.String,\ java.util.Date,\ boolean,\ boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ ficarIsolado()
+comment3.params=
+comment3.target=void\ listaDados()
+numComments=4

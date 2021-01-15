@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Hospital\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=paciente
+comment1.target=void\ adicionarPaciente(Paciente)
+comment2.params=
+comment2.target=void\ listarPacientes()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
